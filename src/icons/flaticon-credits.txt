@@ -1,0 +1,25 @@
+
+phone a <a href="https://www.flaticon.com/free-icons/gadget" title="gadget icons">Gadget icons created by Nikita Golubev - Flaticon</a>
+phone b <a href="https://www.flaticon.com/free-icons/phone" title="phone icons">Phone icons created by DinosoftLabs - Flaticon</a>
+phone c <a href="https://www.flaticon.com/free-icons/cellphone" title="cellphone icons">Cellphone icons created by Pop Vectors - Flaticon</a>
+phone d <a href="https://www.flaticon.com/free-icons/iphone" title="iphone icons">Iphone icons created by Freepik - Flaticon</a>
+phone e <a href="https://www.flaticon.com/free-icons/app" title="app icons">App icons created by Freepik - Flaticon</a>
+
+laptop a <a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer icons created by Vectors Market - Flaticon</a>
+laptop b <a href="https://www.flaticon.com/free-icons/lesson" title="lesson icons">Lesson icons created by vectorsmarket15 - Flaticon</a>
+laptop c <a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer icons created by smashingstocks - Flaticon</a>
+laptop d <a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer icons created by Freepik - Flaticon</a>
+laptop e <a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer icons created by vectorsmarket15 - Flaticon</a>
+
+tablet a <a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer icons created by DinosoftLabs - Flaticon</a>
+table b <a href="https://www.flaticon.com/free-icons/device" title="device icons">Device icons created by Alfredo Creates - Flaticon</a>
+tablet c <a href="https://www.flaticon.com/free-icons/ipad" title="ipad icons">Ipad icons created by Freepik - Flaticon</a>
+tablet d <a href="https://www.flaticon.com/free-icons/tablet" title="tablet icons">Tablet icons created by Smashicons - Flaticon</a>
+tablet e <a href="https://www.flaticon.com/free-icons/tablets" title="tablets icons">Tablets icons created by kmg design - Flaticon</a>
+
+tv a <a href="https://www.flaticon.com/free-icons/smart-tv" title="smart tv icons">Smart tv icons created by Freepik - Flaticon</a>
+tv b <a href="https://www.flaticon.com/free-icons/television" title="television icons">Television icons created by Konkapp - Flaticon</a>
+tv c <a href="https://www.flaticon.com/free-icons/smart-tv" title="smart tv icons">Smart tv icons created by Freepik - Flaticon</a>
+tv c 2 <a href="https://www.flaticon.com/free-icons/smart-tv" title="smart tv icons">Smart tv icons created by Iconiyo - Flaticon</a>
+tv d <a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer icons created by Alfredo Hernandez - Flaticon</a>
+tv e <a href="https://www.flaticon.com/free-icons/television" title="television icons">Television icons created by Freepik - Flaticon</a>
