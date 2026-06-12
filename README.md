@@ -3,7 +3,7 @@ A team project of a Java e‑commerce GUI with JavaFX for the UI and SQLite for 
 
 ## Dependencies
 - This project requires JDK 21 or higher.
-- The Java SQLite library needed is included inside the project.
+- The Java SQLite library and the flatlaf library that is needed is included inside the project.
 
 ## Installation
 1) Either clone this repository, or download the zip (if downloaded as zip, extract it)
