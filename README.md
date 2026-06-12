@@ -5,11 +5,17 @@ A team project of a Java e‑commerce GUI with JavaFX for the UI and SQLite for 
 | ---------------------- | ---------------------- |
 | ![description](github-preview-images/login-page.png) | ![description](github-preview-images/register-page.png) |
 
-![description](github-preview-images/shopping-browser-page.png)
-![description](github-preview-images/item-details-page.png)
-![description](github-preview-images/favorites-page.png)
-![description](github-preview-images/shopping-cart-page.png)
-![description](github-preview-images/profile-page.png)
+| Shopping Browser Page | Item Details Page |
+| - | - |
+| ![description](github-preview-images/shopping-browser-page.png) | ![description](github-preview-images/item-details-page.png) |
+
+| Favorites Page | Shopping Cart Page |
+| - | - |
+| ![description](github-preview-images/favorites-page.png) | ![description](github-preview-images/shopping-cart-page.png) |
+
+| Profile Page |
+| - |
+|![description](github-preview-images/profile-page.png)|
 
 ## Dependencies
 - This project requires JDK 21 or higher.
