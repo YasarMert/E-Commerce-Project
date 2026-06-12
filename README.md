@@ -1,8 +1,10 @@
 # E-Commerce-Project
 A team project of a Java e‑commerce GUI with JavaFX for the UI and SQLite for data storage. It implements product browsing, favorite selection, cart management, order processing and stock control. Showcasing a complete desktop‑shopping solution. This project has used Java, SQLite, SQLite-Browser and Netbeans for development.
 
-![description](github-preview-images/login-page.png)
-![description](github-preview-images/register-page.png)
+| Login Page             | Register Page            |
+| ---------------------- | ---------------------- |
+| ![description](github-preview-images/login-page.png) | ![description](github-preview-images/register-page.png) |
+
 ![description](github-preview-images/shopping-browser-page.png)
 ![description](github-preview-images/item-details-page.png)
 ![description](github-preview-images/favorites-page.png)
