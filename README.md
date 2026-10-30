@@ -28,9 +28,8 @@ A team project of a Java e‑commerce GUI with JavaFX for the UI and SQLite for 
 4) When the project is loaded, Click "Run Project" (F6)
 
 ### Licenses of Icon's used in this project
-- This project uses icons from the website <a href="https://www.flaticon.com">flaticon</a>.
-- Each icon has its own credit link which is stored inside the [flaticon-credits.txt](src/icons/flaticon-credits.txt) projects "icon"s folder.
-- [The project's directory link for the license/Credit of the icons](src/icons/flaticon-credits.txt).
+- This project uses icons from the website <a href="https://www.flaticon.com">flaticon.com</a>.
+- Each icon has its own credit link which is stored inside the project's icons folder: [src/icons/flaticon-credits.txt](src/icons/flaticon-credits.txt)
 
 ### Contributors
 This project was developed by:
@@ -39,7 +38,7 @@ This project was developed by:
 - **Barış Bursalı**
   
 # AI usage
-- This project ***DID NOT USE AI IN IT'S SOURCE CODE.***
+- This project ***did not use AI in it's source code***
 ### Product Name and Detail Generation
 - However AI was used to create randomized, non-copyrighted/non-trademarked, fictional product names and details of the products.
 - The names were generated without reference to any specific existing brand, trademark, or copyrighted work.  
